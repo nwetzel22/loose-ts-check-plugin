@@ -8,7 +8,24 @@
     "clean": "rimraf dist",
     "test": "jest"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwetzel22/loose-ts-check-plugin.git"
+  },
+  "keywords": [
+    "typescript",
+    "type-check",
+    "loose",
+    "config"
+  ],
+  "files": [
+    "dist",
+  ],
+  "author": "Nick Wetzel <nwetzel41@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gelio/loose-ts-check-plugin/issues"
+  },
   "license": "ISC",
   "dependencies": {
     "minimatch": "^7.4.2",
