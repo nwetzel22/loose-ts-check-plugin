@@ -1,6 +1,6 @@
 {
   "name": "loose-ts-check-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A complementary TypeScript Language Service Plugin for the loose-ts-check tool.",
   "main": "dist/index.js",
   "scripts": {
