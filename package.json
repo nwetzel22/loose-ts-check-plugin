@@ -24,7 +24,7 @@
   "author": "Nick Wetzel <nwetzel41@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Gelio/loose-ts-check-plugin/issues"
+    "url": "https://github.com/nwetzel22/loose-ts-check-plugin/issues"
   },
   "dependencies": {
     "minimatch": "^7.4.2",
