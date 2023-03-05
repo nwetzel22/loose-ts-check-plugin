@@ -19,7 +19,7 @@
     "config"
   ],
   "files": [
-    "dist",
+    "dist"
   ],
   "author": "Nick Wetzel <nwetzel41@gmail.com>",
   "license": "MIT",
