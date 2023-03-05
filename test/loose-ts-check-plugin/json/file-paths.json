@@ -1,0 +1,4 @@
+[
+    "path/to/file.ts",
+    "**/glob/*.ts"
+]
